@@ -1,4 +1,4 @@
-package multiplesOf3Or5;
+package projectEuler.multiplesOf3Or5;
 
 public class JavaSolution {
     public static int javaSolution() {
