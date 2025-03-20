@@ -1,4 +1,4 @@
-package hackerRank.longestSubString;
+package leetCode.longestSubString;
 
 import java.util.HashMap;
 import java.util.Map;

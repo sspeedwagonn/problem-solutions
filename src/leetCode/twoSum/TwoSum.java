@@ -1,4 +1,4 @@
-package hackerRank.twoSum;
+package leetCode.twoSum;
 
 import java.util.HashMap;
 import java.util.Map;

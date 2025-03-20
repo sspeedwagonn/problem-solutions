@@ -1,4 +1,4 @@
-package hackerRank.romanToInteger;
+package leetCode.romanToInteger;
 
 import java.util.HashMap;
 
